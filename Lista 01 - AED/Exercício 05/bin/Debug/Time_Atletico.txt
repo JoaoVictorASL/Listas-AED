@@ -1,0 +1,140 @@
+﻿Dados dos Jogadores Titulares do Time Atlético:
+
+Jogador 1:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 2:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 3:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 4:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 5:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 6:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 7:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 8:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 9:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 10:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+
+Jogador 11:
+
+Nome: João
+Número: 1
+Posição: Goleiro
+Dados dos Jogadores Reservas do Time Atlético:
+
+Jogador 1:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 2:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 3:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 4:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 5:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 6:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 7:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 8:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 9:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 10:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 11:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante
+
+Jogador 12:
+
+Nome: Lucas
+Número: 4
+Posição: Atacante

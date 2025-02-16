@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\bin\Debug\Exercício 05.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\bin\Debug\Exercício 05.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\bin\Debug\Exercício 05.pdb
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\obj\Debug\Exercício 04.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\obj\Debug\Exercício 04.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\obj\Debug\Exercício 05.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 01 - AED\Exercício 05\obj\Debug\Exercício 05.pdb
