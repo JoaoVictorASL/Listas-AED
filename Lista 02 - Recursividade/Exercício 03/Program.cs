@@ -15,7 +15,7 @@ namespace Exercício_03
 
             if (result == 0)
             {
-                Console.Write("1");
+                Console.Write(resto);
             }
 
             else  
