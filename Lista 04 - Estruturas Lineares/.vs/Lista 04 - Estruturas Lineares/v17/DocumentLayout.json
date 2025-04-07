@@ -1,20 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Puc Minas\\2\u00BA Semestre\\Lista 04 - Estruturas Lineares\\",
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09C60FFD-19A3-4AF2-B530-09E60030C171}|Exerc\u00EDcio 2\\Exerc\u00EDcio 2.csproj|c:\\users\\micro\\desktop\\puc minas\\2\u00BA semestre\\lista 04 - estruturas lineares\\exerc\u00EDcio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C60FFD-19A3-4AF2-B530-09E60030C171}|Exerc\u00EDcio 2\\Exerc\u00EDcio 2.csproj|solutionrelative:exerc\u00EDcio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53CFC9DA-6925-4E63-983A-2FEB7A30605E}|Exerc\u00EDcio 02\\Exerc\u00EDcio 02.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\listas-aed\\lista 04 - estruturas lineares\\exerc\u00EDcio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CFC9DA-6925-4E63-983A-2FEB7A30605E}|Exerc\u00EDcio 02\\Exerc\u00EDcio 02.csproj|solutionrelative:exerc\u00EDcio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6D48B19-9AE8-4348-8938-6EB208EBBB1D}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|c:\\users\\micro\\desktop\\puc minas\\2\u00BA semestre\\lista 04 - estruturas lineares\\exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D24A0B86-197D-49BF-8A21-C4BAD0BF097E}|Exerc\u00EDcio 05\\Exerc\u00EDcio 05.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\listas-aed\\lista 04 - estruturas lineares\\exerc\u00EDcio 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24A0B86-197D-49BF-8A21-C4BAD0BF097E}|Exerc\u00EDcio 05\\Exerc\u00EDcio 05.csproj|solutionrelative:exerc\u00EDcio 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B930F5C3-DC6C-46BA-B394-5EB432E05C75}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\listas-aed\\lista 04 - estruturas lineares\\exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B930F5C3-DC6C-46BA-B394-5EB432E05C75}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|solutionrelative:exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D48B19-9AE8-4348-8938-6EB208EBBB1D}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6D48B19-9AE8-4348-8938-6EB208EBBB1D}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|solutionrelative:exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Micro\\Downloads\\Program (7).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA80A977-3EF0-474C-9C13-9B3388B0A7EF}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\listas-aed\\lista 04 - estruturas lineares\\exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA80A977-3EF0-474C-9C13-9B3388B0A7EF}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|solutionrelative:exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Micro\\Downloads\\Program (6).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 04-AEDS\\Exerc\u00EDcio 2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exerc\u00EDcio 2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,56 +37,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program (7).cs",
-              "DocumentMoniker": "C:\\Users\\Micro\\Downloads\\Program (7).cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Program (7).cs",
-              "ToolTip": "C:\\Users\\Micro\\Downloads\\Program (7).cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Program (7).cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAuwJEAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 05\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 05\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 05\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 05\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwv2AAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:23:03.35Z",
+              "WhenOpened": "2025-04-07T16:44:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 04\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:08:51.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 03\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 03\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwFgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:03:00.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\2\u00BA Semestre\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 2\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\2\u00BA Semestre\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 2\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio 2\\Program.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAYwJEAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 02\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 02\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 02\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 02\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwGYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:22:55.267Z",
+              "WhenOpened": "2025-04-07T16:02:12.971Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 04-AEDS\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Exercicios-AEDS\\Lista 04-AEDS\\Exerc\u00EDcio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 04-AEDS\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeToolTip": "..\\..\\Exercicios-AEDS\\Lista 04-AEDS\\Exerc\u00EDcio 2\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:58:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:55:20.491Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program (6).cs",
-              "DocumentMoniker": "C:\\Users\\Micro\\Downloads\\Program (6).cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Program (6).cs",
-              "ToolTip": "C:\\Users\\Micro\\Downloads\\Program (6).cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Program (6).cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:21:47.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\2\u00BA Semestre\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 01\\Program.cs",
               "RelativeDocumentMoniker": "Exerc\u00EDcio 01\\Program.cs",
-              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\2\u00BA Semestre\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 04 - Estruturas Lineares\\Exerc\u00EDcio 01\\Program.cs",
               "RelativeToolTip": "Exerc\u00EDcio 01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAAAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAADwv7UAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T13:20:02.735Z",
               "EditorCaption": ""
