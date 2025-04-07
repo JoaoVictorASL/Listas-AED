@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\bin\Debug\Exercício 04.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\bin\Debug\Exercício 04.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\bin\Debug\Exercício 04.pdb
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\obj\Debug\Exercício 04.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\obj\Debug\Exercício 04.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\obj\Debug\Exercício 04.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 02 - Recursividade\Exercício 04\obj\Debug\Exercício 04.pdb

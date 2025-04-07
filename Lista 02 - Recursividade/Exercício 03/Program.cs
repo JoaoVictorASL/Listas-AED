@@ -20,8 +20,8 @@ namespace Exercício_03
 
             else  
             {
-                Console.Write(resto);
                 ConversaoBinaria(n / 2);
+                Console.Write(resto);
             }
         }
         static void Main(string[] args)

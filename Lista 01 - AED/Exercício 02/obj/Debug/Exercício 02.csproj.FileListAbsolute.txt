@@ -1,7 +1,0 @@
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\bin\Debug\Exercício 02.exe.config
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\bin\Debug\Exercício 02.exe
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\bin\Debug\Exercício 02.pdb
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\obj\Debug\Exercício 02.csproj.AssemblyReference.cache
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\obj\Debug\Exercício 02.csproj.CoreCompileInputs.cache
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\obj\Debug\Exercício 02.exe
-C:\Users\1528995\source\repos\Lista 01 - AED\Exercício 02\obj\Debug\Exercício 02.pdb

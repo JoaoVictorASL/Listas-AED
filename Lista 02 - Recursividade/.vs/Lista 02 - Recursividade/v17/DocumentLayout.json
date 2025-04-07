@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD262067-D128-4C0D-A9FE-CD1262CA4623}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD262067-D128-4C0D-A9FE-CD1262CA4623}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|solutionrelative:exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0EC353-A29D-489C-B9EA-4AE6497A3B6F}|Exerc\u00EDcio 05\\Exerc\u00EDcio 05.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\listas-aed\\lista 02 - recursividade\\exerc\u00EDcio 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0EC353-A29D-489C-B9EA-4AE6497A3B6F}|Exerc\u00EDcio 05\\Exerc\u00EDcio 05.csproj|solutionrelative:exerc\u00EDcio 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E018C-10F2-4E8A-9EA8-E610F979A336}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E018C-10F2-4E8A-9EA8-E610F979A336}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|solutionrelative:exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFC7D6C-629F-4577-B15F-8B540DDEC27C}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFC7D6C-629F-4577-B15F-8B540DDEC27C}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|solutionrelative:exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 03\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:40:20.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 05\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 05\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 05\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:02:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 04\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:43:06.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 01\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Listas-AED\\Lista 02 - Recursividade\\Exerc\u00EDcio 01\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 01\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:42:31.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
