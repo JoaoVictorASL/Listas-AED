@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\bin\Debug\Exercício 01.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\bin\Debug\Exercício 01.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\bin\Debug\Exercício 01.pdb
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\obj\Debug\Exercício 01.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\obj\Debug\Exercício 01.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\obj\Debug\Exercício 01.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Listas-AED\Lista 05 - Estrutura de Dados Flexíveis\Exercício 01\obj\Debug\Exercício 01.pdb
