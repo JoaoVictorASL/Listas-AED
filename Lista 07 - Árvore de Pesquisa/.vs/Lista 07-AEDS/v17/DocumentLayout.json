@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820D9191-4305-49E7-80D8-306C99E17D7A}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 07-aeds\\exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820D9191-4305-49E7-80D8-306C99E17D7A}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|solutionrelative:exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF67A7C-EF15-456D-84FB-512B3CA8DFFA}|Exerc\u00EDcio 02\\Exerc\u00EDcio 02.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 07-aeds\\exerc\u00EDcio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF67A7C-EF15-456D-84FB-512B3CA8DFFA}|Exerc\u00EDcio 02\\Exerc\u00EDcio 02.csproj|solutionrelative:exerc\u00EDcio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393EDABF-878E-4B46-A8B1-6324232E220B}|Exerc\u00EDcio 1\\Exerc\u00EDcio 1.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 07-aeds\\exerc\u00EDcio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393EDABF-878E-4B46-A8B1-6324232E220B}|Exerc\u00EDcio 1\\Exerc\u00EDcio 1.csproj|solutionrelative:exerc\u00EDcio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 03\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 03\\Program.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAwwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:03:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\Exerc\u00EDcio 02\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 02\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\Exerc\u00EDcio 02\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 02\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:56:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\Exerc\u00EDcio 1\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 07-AEDS\\Exerc\u00EDcio 1\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 1\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:53:36.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

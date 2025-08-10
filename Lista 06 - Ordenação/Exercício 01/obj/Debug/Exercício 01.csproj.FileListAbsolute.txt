@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\bin\Debug\Exercício 01.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\bin\Debug\Exercício 01.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\bin\Debug\Exercício 01.pdb
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\obj\Debug\Exercício 01.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\obj\Debug\Exercício 01.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\obj\Debug\Exercício 01.exe
+C:\Users\Micro\Desktop\Puc Minas\Repositórios\Exercicios-AEDS\Lista 06-AEDS\Exercício 01\obj\Debug\Exercício 01.pdb
